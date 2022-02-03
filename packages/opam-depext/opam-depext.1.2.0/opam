@@ -29,10 +29,5 @@ build: make
 dev-repo: "git+https://github.com/ocaml/opam-depext.git#2.0"
 url {
   src:
-    "https://github.com/ocaml-opam/opam-depext/releases/download/v1.2.0/opam-depext-full-1.2.0.tbz"
-  checksum: [
-    "md5=bb0d9bbf0565dba30d3c8ab8db269118"
-    "sha512=00ab242467552a81ca5ad5c0892315a1b4c44f72d3cf2a29770d5807ee1921914367828e11cb0852ef9c74f406a90af8c9686c8d6f6dcc56c0cd030116081688"
-    "sha256=4d13d2048df47839ef531b1e239ac890ae84bd56fdd6b908ef4a32a9837d0bfb"
-  ]
+    "https://github.com/ocaml-opam/opam-depext/archive/2.0.tar.gz"
 }
