@@ -16,7 +16,7 @@ install: [
 depends: [
   "dune" {>= "2.8"}
   "csexp"
-  "ocaml" {>= "4.12" & < "4.13"}
+  "ocaml" {>= "4.12"}
   "ocamlfind" {>= "1.5.2"}
   "result"
   "smart-print"
