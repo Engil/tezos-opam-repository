@@ -33,9 +33,9 @@ depends: [
 depopts: ["utop"]
 url {
   src:
-    "https://github.com/thierry-martinez/pyml/archive/refs/tags/20211015.tar.gz"
-  checksum: [
-    "sha512=79237ab56a2e439e785f4d873abd603fdaa51dbbb1258efb25102ca897826cf4d5d15e8467f324df85bba3c61995ceee8fb82d0808cda0da8010e024a78307aa"
-    "sha256=4ef930b3ff8c7c4115b87eabd194795fa1da3aedbebbdcddf82af84eadbb94ab"
-  ]
+    "https://github.com/Sudha247/pyml/archive/500.tar.gz"
+  # checksum: [
+  #   "sha512=79237ab56a2e439e785f4d873abd603fdaa51dbbb1258efb25102ca897826cf4d5d15e8467f324df85bba3c61995ceee8fb82d0808cda0da8010e024a78307aa"
+  #   "sha256=4ef930b3ff8c7c4115b87eabd194795fa1da3aedbebbdcddf82af84eadbb94ab"
+  # ]
 }
