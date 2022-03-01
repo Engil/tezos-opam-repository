@@ -20,10 +20,10 @@ depends: [
 synopsis: "An LR(1) parser generator"
 url {
   src:
-    "https://gitlab.inria.fr/fpottier/menhir/-/archive/20211230/archive.tar.gz"
-  checksum: [
-    "md5=ff8b8c4c58b1365128d0d2aeaad85d1c"
-    "sha512=361d4d81ac92fbe78a88ca731e8ec7e3287bf536b430949c88f87a7dca63e0d65ec30130331e5f00692b7cbbfcec8f3b2a7733cf023fe71067419bcc38ced91e"
-    "sha256=4f93367ea8f5c6e1bf98d88f96598ebd314bb322c101420d40e4dd71adbef9b4"
-  ]
+    "git+https://gitlab.inria.fr/fpottier/menhir#cea506b862ddc34fb6a25b60ae145b755a0db737"
+  # checksum: [
+  #   "md5=ff8b8c4c58b1365128d0d2aeaad85d1c"
+  #   "sha512=361d4d81ac92fbe78a88ca731e8ec7e3287bf536b430949c88f87a7dca63e0d65ec30130331e5f00692b7cbbfcec8f3b2a7733cf023fe71067419bcc38ced91e"
+  #   "sha256=4f93367ea8f5c6e1bf98d88f96598ebd314bb322c101420d40e4dd71adbef9b4"
+  # ]
 }
