@@ -28,9 +28,9 @@ depends: [
 available: arch != "s390x"
 
 url {
-  src: "https://gitlab.com/nomadic-labs/ocaml-secp256k1-internal/-/archive/v0.2/ocaml-secp256k1-internal-0.3.tar.bz2"
-  checksum: [
-    "sha256=a5e78b8210b000217b98771984d706dddbbb12983bd758a52c23a6746da9ddd8"
-    "sha512=3c40a5c19d697d153a14d9df3016d77041fea2eef0a831e6514f3b22e1cda3a0a1240631c94890fb8447eba64fe346bb59ab83ac108e22dbc89f7d547a3af83c"
-  ]
+  src: "git+https://gitlab.com/marigold/ocaml-secp256k1-internal#ocaml-500"
+  # checksum: [
+  #   "sha256=a5e78b8210b000217b98771984d706dddbbb12983bd758a52c23a6746da9ddd8"
+  #   "sha512=3c40a5c19d697d153a14d9df3016d77041fea2eef0a831e6514f3b22e1cda3a0a1240631c94890fb8447eba64fe346bb59ab83ac108e22dbc89f7d547a3af83c"
+  # ]
 }
